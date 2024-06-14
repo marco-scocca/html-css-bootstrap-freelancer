@@ -2,3 +2,9 @@
     background-color: red;
     border: 1px solid black;
 }
+
+.col-12 {
+    background-color: green;
+    border: 1px solid black;
+    height: 500px;
+}
