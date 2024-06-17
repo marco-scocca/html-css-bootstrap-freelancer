@@ -14,3 +14,25 @@ header {
     border: 1px solid black;
     height: 75px;
 }
+
+.content {
+    background-color: blueviolet;
+    border: 1px solid black;
+    height: 150px;
+}
+
+
+.jumbo-content {
+    background-color: rgb(43, 226, 89);
+    border: 1px solid black;
+    height: 300px;
+}
+
+.jumbo {
+    background-color: coral;
+}
+
+#jumbotron,
+#about-us {
+    background-color: cornflowerblue;
+}
