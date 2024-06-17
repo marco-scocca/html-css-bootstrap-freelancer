@@ -1,10 +1,16 @@
-.col {
-    background-color: red;
-    border: 1px solid black;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.col-12 {
-    background-color: green;
+
+header {
+    background-color: black;
+}
+
+.header-content {
+    background-color: blueviolet;
     border: 1px solid black;
-    height: 500px;
+    height: 75px;
 }
