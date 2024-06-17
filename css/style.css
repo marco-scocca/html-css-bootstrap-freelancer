@@ -6,7 +6,8 @@
 
 
 header {
-    background-color: black;
+    background-color: #2C3E50;
+    color: white;
 }
 
 .header-content {
@@ -39,4 +40,9 @@ header {
 
 .bottom-footer {
     background-color: brown;
+}
+
+
+.txt-white {
+    color: white;
 }
