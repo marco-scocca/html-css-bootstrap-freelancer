@@ -36,7 +36,8 @@ header {
 
 #jumbotron,
 #about-us {
-    background-color: cornflowerblue;
+    background-color: #1ABC9C;
+    color: white;
 }
 
 .bottom-footer {
@@ -49,7 +50,7 @@ header {
 }
 
 .resize-img {
-    width: 40%;
+    max-width: 300px;
     height: auto;
 }
 
@@ -89,10 +90,10 @@ ul#menu {
 
 #menu li {
     display: inline;
-    padding: 10px;
+    padding: 5px;
+    font-size: 15px;
 }
 
-.cards {
-    width: 100%;
-    height: auto;
+.content img {
+    border-radius: 20px;
 }
